@@ -1,2 +1,10 @@
 # tv
-TV version DustOS
+
+DustOS web for Tv
+
+online:
+
+HOW TO INSTALL:
+
+
+HOW TO CONNECT:
